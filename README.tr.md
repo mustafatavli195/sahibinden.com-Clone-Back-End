@@ -14,7 +14,7 @@ Aşağıdaki adımları takip ederek projeyi kendi bilgisayarınızda çalışt�
 ### 1️⃣ **Projeyi Klonlayın**  
 Öncelikle GitHub üzerinden projeyi klonlayın:  
 ```sh
-git clone https://github.com/KULLANICI_ADI/REPO_ADI.git
+git clone https://github.com/mustafatavli195/sahibinden.com-Clone-Back-End.git
 cd sahibinden.com-Clone-Back-End
 ```
 

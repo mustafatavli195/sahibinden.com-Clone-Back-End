@@ -14,7 +14,7 @@ Follow the steps below to run the project on your local machine.
 ### 1️⃣ **Clone the Project**  
 First, clone the project from GitHub:  
 ```sh
-git clone https://github.com/USER_NAME/REPO_NAME.git
+git clone https://github.com/mustafatavli195/sahibinden.com-Clone-Back-End.git
 cd sahibinden.com-Clone-Back-End
 ```
 
