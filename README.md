@@ -118,8 +118,3 @@ Users log in and are authenticated with **email and password**. A **JWT token** 
   "title": "Minibus for Sale - Suitable for Student Transport",
   "description": "2018 model, seat layout updated, suitable for student transport..."
 }
-```
-
----
-
-Let me know if you need further adjustments!
